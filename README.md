@@ -1,4 +1,5 @@
-# 差旅小账本（travel-expense-manager：https://changqingxu454-art.github.io/travel-expense-manager/）
+# 差旅小账本（travel-expense-manager）
+## https://changqingxu454-art.github.io/travel-expense-manager/
 
 个人差旅发票管理网页应用。部署在 GitHub Pages，主要在手机浏览器中使用。
 
